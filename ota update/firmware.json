@@ -1,6 +1,6 @@
 {
     "type": "CalendarV1",
-    "version": 1,
+    "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/1JonaB1/Calendar/main/ota%20update/firmware1.bin"
